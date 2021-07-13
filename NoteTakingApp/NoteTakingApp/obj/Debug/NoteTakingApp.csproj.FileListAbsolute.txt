@@ -262,7 +262,6 @@ D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\bin\Debug\p
 D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
 D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csprojAssemblyReference.cache
 D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Migrations.init.resources
 D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.NoteTakingApp.resources
 D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
@@ -271,3 +270,4 @@ D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\N
 D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CopyComplete
 D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
 D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
+D:\Repos\Note Taking App\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
